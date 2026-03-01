@@ -14,8 +14,8 @@ See `handout.md` for the full brief.
 ### 1. Clone the repo
 
 ```bash
-git clone <repo-url>
-cd bsb-workshop
+git clone git@github.com:daniil-kumok/bsb-lecture-rag.git
+cd bsb-lecture-rag
 ```
 
 ### 2. Create a virtual environment
