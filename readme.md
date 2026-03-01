@@ -76,7 +76,6 @@ python chocobot.py
 
 ```
 ├── chocobot.py          # Core chatbot logic (answer_question)
-├── ingest.py            # Document ingestion into ChromaDB
 ├── app.py               # Streamlit chat app
 ├── docs/                # ChocoLux company documents
 ├── requirements.txt     # Python dependencies
