@@ -1,0 +1,6 @@
+streamlit
+chromadb
+python-dotenv
+mistralai
+pymupdf
+pandas
